@@ -1,3 +1,3 @@
 # program
 This is my first Git repository.
-Author-Rahul Kumar Verma
+Author-Ankit Kumar Verma
